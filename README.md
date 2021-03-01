@@ -1,2 +1,2 @@
 # simple-file
-hi prasad
+echo "hello"
